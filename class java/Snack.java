@@ -33,5 +33,9 @@ String snack25= "homemade cheese crackers";
 	 String ref=snacks[snack];
 	 System.out.println("ref "+ref);
  }
+ for(int i=snacks.length-1;i>=0;i--){
+	 String ref1=snacks[i];
+	 System.out.println("snacks is:"+ref1);
+ }
 }
 }
