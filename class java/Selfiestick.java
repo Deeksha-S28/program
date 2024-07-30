@@ -1,0 +1,4 @@
+class Selfiestick{
+	
+	int cost;
+}

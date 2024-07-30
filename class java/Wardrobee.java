@@ -1,0 +1,4 @@
+class Wardrobee{
+	
+	int cost;
+}

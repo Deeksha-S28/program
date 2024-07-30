@@ -1,0 +1,4 @@
+class Postbox{
+	
+	String loc;
+}

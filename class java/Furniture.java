@@ -1,0 +1,4 @@
+class Furniture{
+	
+	String type;
+}
