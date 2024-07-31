@@ -1,0 +1,55 @@
+class IronBox{
+	String brand="philips";
+	String type="cotton";
+	public static void main(String[] args){
+		IronBox iron=new IronBox();
+		System.out.println("brand is:"+iron.brand);
+		System.out.println("tyoe is:"+iron.type);
+	    iron.brand="bajaj";
+		iron.type="nylon";
+		System.out.println("brand is:"+iron.brand);
+		System.out.println("tyoe is:"+iron.type);
+		IronBox iron1=new IronBox();
+		System.out.println("brand is:"+iron1.brand);
+		System.out.println("tyoe is:"+iron1.type);
+	    iron1.brand="usha";
+		iron1.type="silk";
+		System.out.println("brand is:"+iron1.brand);
+		System.out.println("tyoe is:"+iron1.type);
+		IronBox iron2=new IronBox();
+		System.out.println("brand is:"+iron2.brand);
+		System.out.println("tyoe is:"+iron2.type);
+	    iron2.brand="havells";
+		iron2.type="crepe";
+		System.out.println("brand is:"+iron2.brand);
+		System.out.println("tyoe is:"+iron2.type);
+		IronBox iron3=new IronBox();
+		System.out.println("brand is:"+iron3.brand);
+		System.out.println("tyoe is:"+iron3.type);
+	    iron3.brand="inalsa";
+		iron3.type="soft cotton";
+		System.out.println("brand is:"+iron3.brand);
+		System.out.println("tyoe is:"+iron3.type);
+		IronBox iron4=new IronBox();
+		System.out.println("brand is:"+iron4.brand);
+		System.out.println("tyoe is:"+iron4.type);
+	    iron4.brand="impex";
+		iron4.type="wollen";
+		System.out.println("brand is:"+iron4.brand);
+		System.out.println("tyoe is:"+iron4.type);
+		IronBox iron5=new IronBox();
+		System.out.println("brand is:"+iron5.brand);
+		System.out.println("tyoe is:"+iron5.type);
+	    iron5.brand="decker";
+		iron5.type="synthetic";
+		System.out.println("brand is:"+iron5.brand);
+		System.out.println("tyoe is:"+iron5.type);
+		IronBox iron6=new IronBox();
+		System.out.println("brand is:"+iron6.brand);
+		System.out.println("tyoe is:"+iron6.type);
+	    iron6.brand="tovito";
+		iron6.type="tissue";
+		System.out.println("brand is:"+iron6.brand);
+		System.out.println("tyoe is:"+iron6.type);
+	}
+}
